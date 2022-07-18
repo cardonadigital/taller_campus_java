@@ -1,0 +1,11 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôÁ“¿8òôú Ÿ0
+N
+java:S3416	",Update this logger to use "plantilla.class".(ÀÕ¢Øıÿÿÿÿ8öÇû Ÿ0
+M
+java:S1068
+"+Remove this unused "scanner" private field.(‚ïèıÿÿÿÿ8ûÇû Ÿ0
+N
+java:S1144",Remove this unused private "message" method.(Õ†ÿçşÿÿÿÿ8÷ôú Ÿ0
+O
+java:S1144"-Remove this unused private "exercise" method.(Õãù‰ûÿÿÿÿ8÷ôú Ÿ0
