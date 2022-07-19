@@ -2,13 +2,11 @@ package org.sofka.application.exercices.exercise18;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.sofka.application.exercices.Exercise1and2;
 
 import java.util.Scanner;
 
 public class Exercise18 {
-    private static final Log log = LogFactory.getLog(Exercise1and2.class);
-    private static final Scanner scanner = new Scanner(System.in);
+    private static final Log log = LogFactory.getLog(Exercise18.class);
 
     public Exercise18() {
         message();
@@ -29,7 +27,6 @@ public class Exercise18 {
     }
 
     private void exercise() {
-        log.info("ingresa 2 numeros, el programa te dira si el numero 1 es mayor igual o menor al numero 2");
-
+        new Manager();
     }
 }
